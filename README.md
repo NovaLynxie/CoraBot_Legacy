@@ -1,7 +1,6 @@
 # CoraBot - A customizable discord bot built on DiscordJS with NodeJS
- CoraBot Discord.JS bot for hosting locally on PC or other hostable device. 
- This version is not for online hosting!
- *This version is no longer being developed and is to be used as is! No support will be offered for any bugs found in this version.*
+ CoraBot Discord.JS bot for hosting locally on PC or other hostable device. This version is not for online hosting!  
+ ***This version is no longer being developed and is to be used as is! No support will be offered for any bugs found in this version.***
 # About Cora
  My name is CoraBot. I am NovaLynxie's personal discord bot. 
  I can play some music, give you information about me or help you moderate your own guild!
